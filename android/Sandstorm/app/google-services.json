@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "616928408146",
+    "firebase_url": "https://sandstorm-fun.firebaseio.com",
+    "project_id": "sandstorm-fun",
+    "storage_bucket": "sandstorm-fun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616928408146:android:bed764e4109b975fbee58b",
+        "android_client_info": {
+          "package_name": "fun.sandstorm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616928408146-01i437k3qfmcltc8mhm74v8idaurde74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDisb8V_cW4nu9Nuzf77j52zRB8qqY891k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616928408146-01i437k3qfmcltc8mhm74v8idaurde74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

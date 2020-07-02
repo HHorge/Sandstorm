@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorBackground">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="300dp"
+        android:layout_height="51dp"
+        android:background="@drawable/ic_edit_bar"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/button_draw_image"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:background="@drawable/ripple_2"
+            app:layout_constraintBottom_toBottomOf="@+id/button_share_image"
+            app:layout_constraintEnd_toStartOf="@+id/button_add_sticker"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/button_share_image" />
+
+        <Button
+            android:id="@+id/button_add_sticker"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:background="@drawable/ripple_2"
+            app:layout_constraintBottom_toBottomOf="@+id/button_share_image"
+            app:layout_constraintEnd_toStartOf="@+id/button_add_text"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_draw_image"
+            app:layout_constraintTop_toTopOf="@+id/button_share_image" />
+
+        <Button
+            android:id="@+id/button_add_text"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:background="@drawable/ripple_2"
+            app:layout_constraintBottom_toBottomOf="@+id/button_share_image"
+            app:layout_constraintEnd_toStartOf="@+id/button_save_image"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_add_sticker"
+            app:layout_constraintTop_toTopOf="@+id/button_share_image" />
+
+        <Button
+            android:id="@+id/button_save_image"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:background="@drawable/ripple_2"
+            app:layout_constraintBottom_toBottomOf="@+id/button_share_image"
+            app:layout_constraintEnd_toStartOf="@+id/button_share_image"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_add_text"
+            app:layout_constraintTop_toTopOf="@+id/button_share_image" />
+
+        <Button
+            android:id="@+id/button_share_image"
+            android:layout_width="42dp"
+            android:layout_height="42dp"
+            android:background="@drawable/ripple_2"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintStart_toEndOf="@+id/button_save_image"
+            app:layout_constraintTop_toTopOf="parent" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+    <![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    app:layout_constraintTop_toTopOf="@+id/button_draw_image"
+        app:srcCompat="@drawable/ic_share_24px" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]]>
+</androidx.constraintlayout.widget.ConstraintLayout>

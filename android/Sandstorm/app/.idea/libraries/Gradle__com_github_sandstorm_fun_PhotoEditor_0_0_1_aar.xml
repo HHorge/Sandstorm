@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.sandstorm-fun:PhotoEditor:0.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd3f1ec5c96a6d32b7bbc968c6cfd685/PhotoEditor-0.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bd3f1ec5c96a6d32b7bbc968c6cfd685/PhotoEditor-0.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.sandstorm-fun/PhotoEditor/0.0.1/ff3552d1b9e36f6c2c07e6eafad560ce83537580/PhotoEditor-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
